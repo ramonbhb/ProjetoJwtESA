@@ -19,7 +19,7 @@ routes.post('/login', (req,res) => {
    let usuario2 = {
        id: 2,
        login: 'sergioDeVoltaComFone',
-       senha: 'sergioREIS',
+       senha: 'seGITrgioREIS',
        role: "admin"
    }
 
